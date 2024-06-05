@@ -1,12 +1,7 @@
-nome = "Jonatha";
+n1 = 10;
 
-idade = 31;
+n2 = 5;
 
-altura = 1.79;
+soma = n1 + n2;
 
-peso = 98.10;
-
-print(nome, " >>> " , type(nome));
-print(idade, " >>> " , type(idade));
-print(altura, " >>> " , type(altura));
-print(peso, " >>> " , type(peso));
+print(soma);
